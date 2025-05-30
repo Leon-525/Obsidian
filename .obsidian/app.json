@@ -1,0 +1,8 @@
+{
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "001 Attachment",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "showLineNumber": true
+}

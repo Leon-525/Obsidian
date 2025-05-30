@@ -1,0 +1,317 @@
+{
+  "main": {
+    "id": "89dcb3cdf52c2c8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9a85a5d5c0c943f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61130b2428385887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 学习/101 学习日志/2025/2025-05/2025-05-30-星期五.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-30-星期五"
+            }
+          },
+          {
+            "id": "1173a77488eebb96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Inbox/obsidian插件安装和学习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "obsidian插件安装和学习"
+            }
+          },
+          {
+            "id": "decb55cffb3d5e44",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97c0d8854e4c93ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e058af42a09fc865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feb96da23a44d349",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "bb52ae12917fb4f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2fa509e6ee7141bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "right": {
+    "id": "4399fd60325f70c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1fa18150deb81fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db08fc23731e5ade",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "201 Diary/2025/2025-03/2025-03-01-星期六.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-03-01-星期六 的反向链接列表"
+            }
+          },
+          {
+            "id": "6f4f4b84013232e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "100 学习/101 学习日志/2025/2025-05/2025-05-30-星期五.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-05-30-星期五 的出链列表"
+            }
+          },
+          {
+            "id": "db8563ecfa61dc8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6d0ebf1f5b15676f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "201 Diary/2025/2025-03/2025-03-01-星期六.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-03-01-星期六 的大纲"
+            }
+          },
+          {
+            "id": "074cba61a262ff53",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ee3b9d79f338a4e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "201 Diary/2025/2025-03/2025-03-01-星期六.md"
+              },
+              "icon": "lucide-info",
+              "title": "2025-03-01-星期六的笔记属性"
+            }
+          },
+          {
+            "id": "0d85aa78de072c5d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "634517bb7b8570fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-projects:打开项目": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "634517bb7b8570fc",
+  "lastOpenFiles": [
+    "README.md",
+    "100 学习/102 学习系统/学习方法.md",
+    "100 学习/101 学习日志/2025/2025-05/2025-05-30-星期五.md",
+    "100 学习/101 学习日志/2025/2025-05",
+    "100 学习/102 学习系统/学习系统.md",
+    "000 Inbox/学习系统/学习系统.md",
+    "000 Inbox/obsidian插件安装和学习.md",
+    "200 生活/220 人生/未经审视的人生是不值得过的/自律.md",
+    "100 学习/130 哲学/思考/土地和战斗.md",
+    "000 Inbox/Web Clip/【俞宣孟】两种不同形态的形而上学-哲学中国网.md",
+    "200 生活/220 人生/价值观/人生的路.md",
+    "200 生活/220 人生/未经审视的人生是不值得过的/时间管理.md",
+    "200 生活/220 人生/未经审视的人生是不值得过的/目标和系统.md",
+    "000 Inbox/学习系统/笔记系统/PARA方法.md",
+    "200 生活/220 人生/未经审视的人生是不值得过的",
+    "200 生活",
+    "400 兴趣",
+    "000 Inbox/学习系统/笔记系统/笔记系统.md",
+    "000 Inbox/001 模板/模板(学习日志).md",
+    "100 学习",
+    "000 Inbox/001 模板/模板(日记).md",
+    "200 生活/220 人生/价值观",
+    "202 Daily Life/1 时间管理",
+    "100 学习/140 心理学",
+    "000 Inbox/Excalidraw/Drawing 2025-03-01 11.13.42.excalidraw.md",
+    "000 Inbox/002 附件/c2a7b1067566f496c30c3edbcc3893fb_MD5.jpeg",
+    "000 Inbox/002 附件/Excalidraw",
+    "100 学习/101 学习日志/2025/2025-04/2025-04-13-星期日.md",
+    "100 学习/101 学习日志/2025/2025-04/2025-04-11-星期五.md",
+    "200 Life/203 Diary/未命名.md",
+    "100 学习/101 学习日志",
+    "100 学习/101 学习日志/2025/2025-04/2025-04-09-星期三.md",
+    "203 Diary/2025/2025-04/未命名.md",
+    "100 学习/101 学习日志/2025/2025-03/2025-03-05-星期三.md",
+    "未命名.md",
+    "000 Inbox/学习系统/未命名.md",
+    "Administrator.md",
+    "未命名.canvas",
+    "102 Computer Science/Machine Learning/Course/Learning From Data/未命名.canvas",
+    "001 Attachment/Pasted image 20241023142601.png",
+    "Pasted image 20241023142528.png",
+    "100 Inbox/学习系统/笔记系统/PARA.jpeg",
+    "学习方法论/6af25903f3fc607bc49be5332ab279cf_MD5 1.jpeg",
+    "Pasted image 20241003160723.png",
+    "2fad582432c3199165fffba8e0c5664d_MD5.jpg",
+    "c2a471eba25be651e87a99f664f721f5_MD5.webp",
+    "852aea94d0dfa2fe9e334faf0bacf67e_MD5.jpg",
+    "093174c9782e62aff7b7f088e8fd4441_MD5.jpg"
+  ]
+}
