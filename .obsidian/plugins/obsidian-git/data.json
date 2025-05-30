@@ -1,15 +1,13 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 20,
-  "autoPushInterval": 0,
-  "autoPullInterval": 0,
-  "autoPullOnBoot": false,
+  "commitMessage": "AutoCommit: {{hostname}} {{numFiles}} {{date}}",
+  "commitDateFormat": "MM-DD HH:mm",
+  "autoSaveInterval": 0.1,
+  "autoPushInterval": 0.1,
+  "autoPullInterval": 0.5,
+  "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
-  "disablePopups": false,
-  "showErrorNotices": true,
+  "disablePopups": true,
   "disablePopupsForNoChanges": false,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
@@ -21,9 +19,9 @@
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": true,
-  "changedFilesInStatusBar": false,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
-  "refreshSourceControlTimer": 7000,
+  "refreshSourceControlTimer": 3000,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
@@ -31,7 +29,6 @@
   "showFileMenu": true,
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
-  "diffStyle": "split",
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
@@ -56,5 +53,6 @@
     "gutterSpacingFallbackLength": 5,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
-  }
+  },
+  "autoCommitMessage": "AutoCommit: {{hostname}} {{numFiles}} {{date}}"
 }
